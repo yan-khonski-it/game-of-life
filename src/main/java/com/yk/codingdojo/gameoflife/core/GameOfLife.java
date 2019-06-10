@@ -1,4 +1,4 @@
-package com.yk.codingdojo.gameoflife.app;
+package com.yk.codingdojo.gameoflife.core;
 
 import com.yk.codingdojo.gameoflife.utils.MatrixUtils;
 

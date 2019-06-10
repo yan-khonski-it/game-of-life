@@ -1,5 +1,6 @@
 package com.yk.codingdojo.gameoflife.app;
 
+import com.yk.codingdojo.gameoflife.core.GameOfLife;
 import com.yk.codingdojo.gameoflife.utils.MatrixUtils;
 import com.yk.codingdojo.gameoflife.utils.ThreadUtils;
 
